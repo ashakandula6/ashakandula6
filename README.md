@@ -10,11 +10,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashakandula6&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📊 GitHub Stats
 
@@ -26,25 +21,18 @@
 
 ## 💻 Tech Stack
 
-### 🚀 Languages & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🧠 AI & ML Libraries  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=chainlink&logoColor=white)
-
-### 🌐 Web & Backend  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-6DB33F?style=flat)
-
-### 🗄️ Databases & Tools  
+![REST API](https://img.shields.io/badge/-REST%20API-6DB33F?style=flat) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-0074F0?style=flat&logo=vector&logoColor=white)
@@ -59,7 +47,6 @@
 📄 Deep Learning model to detect forged PAN cards using CNNs  
 🔧 *Tools:* `Python`, `TensorFlow`, `OpenCV`, `Flask`  
 🧪 Accuracy improved with data augmentation and tuning  
-📁 [View Project Repository (Coming Soon)](#)
 
 ---
 
@@ -75,7 +62,6 @@
 📕 Retrieval-Augmented Generation pipeline for text, PDF, and Word queries  
 ✨ *LLM-powered answers using:* `Gemini 2.0`, `LangChain`, `Pinecone`  
 📎 Embedding optimization & dynamic chunk sizing for accurate retrieval  
-📁 [View Project Repository (Coming Soon)](#)
 
 ---
 
@@ -88,10 +74,3 @@
 - 🌱 **Sri Sathya Sai Bal Vikas** – *9-Year Value Education Program*
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
-> To enable this, create a GitHub Actions workflow from [this repo](https://github.com/Platane/snk)
-
-```markdown
-![snake gif](https://github.com/ashakandula6/ashakandula6/blob/output/github-contribution-grid-snake.svg)
