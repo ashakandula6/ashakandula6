@@ -1,79 +1,97 @@
-# 👋 Hi, I'm Asha Pavani!
+# 👋 Hi, I'm Asha Pavani Kandula!
 
-🎓 B.Tech in CSE (AI & ML) @ GITAM University (2022–2026)  
-🔬 Aspiring AI & Data Science Enthusiast | Machine Learning | Web Development | Analytics  
-📍 Intern @ **BigTapp Analytics**, Hyderabad  
-🧠 Building cool stuff with Python, LangChain, Streamlit, and LLMs  
-📹 Passionate about Generative AI, Data-Driven Solutions & Real-World Projects  
-🧾 Sharing my tech journey through GitHub 🚀
+🎓 AI/ML B.Tech student @ GITAM University (2022–2026)  
+🧠 Intern @ **BigTapp Analytics** | Passionate about **LLMs**, **Data Science**, and **Web Development**  
+🚀 Currently building: RAG Pipelines, LangChain Apps, and NLP Bots  
+🧾 Solving real-world problems through AI & open source collaboration  
+🌱 Constantly learning — one commit at a time!
 
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/asha-kandula-496a60258)  
-📫 Email me: [ashapkandula@gmail.com](mailto:ashapkandula@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/asha-kandula-496a60258) • 📬 [ashapkandula@gmail.com](mailto:ashapkandula@gmail.com)
 
 ---
 
-## 📊 My GitHub Stats
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashakandula6&theme=darkhub&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
 
 ![Asha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashakandula6&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashakandula6&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashakandula6&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ashakandula6&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Languages  
+### 🚀 Languages & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🛠️ Frameworks, Tools & Platforms  
+### 🧠 AI & ML Libraries  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+
+### 🌐 Web & Backend  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?style=flat&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![REST API](https://img.shields.io/badge/-REST%20API-6DB33F?style=flat)
+
+### 🗄️ Databases & Tools  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0074F0?style=flat&logo=vector&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Highlighted Projects
 
-### 🔐 PAN Card Tampering Detector  
-A CNN-based model that detects PAN card forgery  
-**Tech:** Python, TensorFlow, OpenCV, Flask
+### 🔍 PAN Card Tampering Detector  
+📄 Deep Learning model to detect forged PAN cards using CNNs  
+🔧 *Tools:* `Python`, `TensorFlow`, `OpenCV`, `Flask`  
+🧪 Accuracy improved with data augmentation and tuning  
+📁 [View Project Repository (Coming Soon)](#)
+
+---
 
 ### 💬 Natural Language Query Bot  
-Ask your database questions in plain English using LLMs  
-**Tech:** Python, LangChain, Streamlit, SQLAlchemy, PyMongo
-
-### 📄 RAG Pipeline for Document Q&A  
-Answer questions from PDFs, Word docs with Gemini LLM  
-**Tech:** Python, LangChain, Pinecone, PyPDF2, docx2txt
+🧠 Query PostgreSQL, MongoDB & MariaDB with plain English via Gemini Flash LLM  
+⚙️ *Built With:* `LangChain`, `SQLAlchemy`, `PyMongo`, `Streamlit`  
+📊 Schema introspection for improved context accuracy  
+📁 [View Project Repository](https://github.com/ashakandula6/nlq-pipeline)
 
 ---
 
-## 🏅 Certifications
-
-- 🧠 *Generative AI with LangChain & Hugging Face* – Udemy  
-- 📊 *Google Data Analytics* – Coursera  
-- 📈 *Power BI Data Analyst* – Coursera  
-- 🧪 *Software Testing* – NPTEL  
-- 🌱 *Sri Sathya Sai Bal Vikas* – 9-Year Program in Value Education
+### 📚 RAG Pipeline for Document QnA  
+📕 Retrieval-Augmented Generation pipeline for text, PDF, and Word queries  
+✨ *LLM-powered answers using:* `Gemini 2.0`, `LangChain`, `Pinecone`  
+📎 Embedding optimization & dynamic chunk sizing for accurate retrieval  
+📁 [View Project Repository (Coming Soon)](#)
 
 ---
 
-## 🛠 Currently Working On...
+## 📜 Certifications
 
-- 🔍 RAG-based document search system  
-- 🧠 NLP & LLM integration for database Q&A  
-- 🚀 More open-source AI projects soon!
+- 🧠 **Generative AI with LangChain & Hugging Face** – *Udemy*
+- 📊 **Google Data Analytics** – *Coursera*
+- 📈 **Power BI Data Analyst** – *Coursera*
+- 🧪 **Software Testing** – *NPTEL*
+- 🌱 **Sri Sathya Sai Bal Vikas** – *9-Year Value Education Program*
 
 ---
 
-_✨ “Learning in public, one commit at a time!”_
+## 🐍 GitHub Contribution Snake
+
+> To enable this, create a GitHub Actions workflow from [this repo](https://github.com/Platane/snk)
+
+```markdown
+![snake gif](https://github.com/ashakandula6/ashakandula6/blob/output/github-contribution-grid-snake.svg)
