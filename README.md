@@ -6,6 +6,8 @@
 🧾 Solving real-world problems through AI & open source collaboration  
 🌱 Constantly learning — one commit at a time!
 
+"Currently debugging life. AI is easier."
+
 🔗 [LinkedIn](https://www.linkedin.com/in/asha-kandula-496a60258) • 📬 [ashapkandula@gmail.com](mailto:ashapkandula@gmail.com)
 
 ---
