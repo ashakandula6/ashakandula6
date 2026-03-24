@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asha%20Pavani%20Kandula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLM%20Builder%20%7C%20Data%20Scientist&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asha%20Pavani%20Kandula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLM%20Builder%20%7C%20AI%20&ML&descAlignY=51&descAlign=50"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD8F7&center=true&vCenter=true&random=false&width=650&lines=Building+RAG+Pipelines+%F0%9F%94%8D;Automating+Recruitment+with+AI+%F0%9F%A4%96;Natural+Language+%E2%86%92+SQL+Queries+%F0%9F%97%84%EF%B8%8F;LangChain+%7C+Gemini+%7C+LLMs+%7C+Python)](https://git.io/typing-svg)
