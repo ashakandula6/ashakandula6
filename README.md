@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asha%20Pavani%20Kandula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Builder%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Asha%20Pavani%20Kandula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%F0%9F%94%97;LLM+Apps+%26+AI+Agents+%F0%9F%A4%96;NLP+Solutions+that+Scale+%F0%9F%9A%80;Real-world+AI+at+BigTapp+Analytics+%F0%9F%92%BC)](https://git.io/typing-svg)
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/asha-kandula-496a60258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ashapkandula@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ashakandula6"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=RAG+Pipelines+%7C+LangChain+%7C+LLM+Apps;Full-Stack+AI+Systems+%7C+Flask+%7C+React;NLP+%7C+Data+Science+%7C+Python;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asha%20Kandula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asha-kandula-496a60258)
+[![Email](https://img.shields.io/badge/Email-ashapkandula%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashapkandula@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ashakandula6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashakandula6)
+[![PennyWise](https://img.shields.io/badge/PennyWise-Coming%20Soon%20%F0%9F%92%B0-10B981?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -19,157 +22,128 @@
 ```python
 class AshaKandula:
     def __init__(self):
-        self.role        = "AI/ML B.Tech Student @ GITAM University (2022–2026)"
-        self.internship  = "AI/ML Engineer Intern @ BigTapp Analytics"
-        self.focus       = ["LLMs", "RAG Pipelines", "AI Agents", "Data Science"]
-        self.building    = ["Agentic ATS", "NLQ Systems", "Document Intelligence"]
-        self.quote       = "Currently debugging life. AI is easier."
+        self.education   = "B.Tech AI/ML @ GITAM University (2022–2026)"
+        self.role        = "AI/ML Intern @ BigTapp Analytics"
+        self.focus       = ["LLMs", "RAG Pipelines", "Full-Stack AI", "NLP"]
+        self.tools       = ["Python", "LangChain", "Gemini", "Flask", "React"]
+        self.motto       = "Currently debugging life. AI is easier."
 
-    def say_hi(self):
-        print("Hey! Let's build something intelligent together 🚀")
+    def current_mission(self):
+        return "Building intelligent systems that solve real problems 🚀"
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🤖 Agentic-ATS — AI-Powered Applicant Tracking System
+> *Full-stack ATS actively used by 5 HR professionals at BigTapp Analytics*
 
-### 🤖 Agentic ATS
-> *AI-Driven Applicant Tracking System*
+| | |
+|---|---|
+| **What it does** | Automates resume screening & ranking for technical roles using Gemini 1.5 Flash. Handles 500+ resumes/month with 100% skill-match accuracy. |
+| **Key Features** | Fuzzy logic scoring · PII masking with Presidio · Candidate profiling · RAG pipeline with Weaviate + Agno + Crew AI agents (80% better query reliability) |
+| **Stack** | `Python` `React` `Flask` `MongoDB` `Gemini 1.5 Flash` `Presidio` `PyPDF2` `fuzzywuzzy` `Material-UI` `Lucide-react` `pytest` |
 
-Full-stack ATS used by **5 HR professionals** at BigTapp Analytics — automating resume screening across **500+ resumes/month**.
-
-- 🎯 **100% skill-match accuracy** using Gemini 1.5 Flash
-- 🛡️ PII masking with **Presidio Analyzer**
-- 🔢 Fuzzy logic scoring & candidate profiling
-- 📊 React + Flask dashboard for HR workflows
-
-**Stack:** `Python` `React` `Flask` `MongoDB` `Gemini 1.5 Flash` `Presidio` `PyPDF2` `Material-UI`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashakandula6/Agentic-ATS)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 RAG Pipeline for Document QnA
-> *Retrieval-Augmented Generation at Scale*
-
-Scalable document Q&A pipeline — **80% improvement** in query reliability through optimized chunking & prompt flows.
-
-- 🔗 **Weaviate** vector store + **LangChain** orchestration
-- 🧩 AI agents via **Agno** and **Crew AI** frameworks
-- 📈 Query observability with **Langfuse**
-- 📄 Handles text, PDF, and Word documents
-
-**Stack:** `Gemini 2.0 Flash` `LangChain` `Weaviate` `Langfuse` `Agno` `Crew AI`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashakandula6/gemini_rag_pipeline)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Natural Language Query Bot
-> *Talk to your databases in plain English*
-
-NLQ system enabling non-technical users to query **PostgreSQL & MongoDB** using natural language.
-
-- 🧠 Gemini-powered **schema extraction & query translation**
-- 🔄 Supports **multi-database** backends
-- 📊 Streamlit UI for seamless data access
-- ⚙️ Schema introspection for improved accuracy
-
-**Stack:** `LangChain` `SQLAlchemy` `PyMongo` `Streamlit` `Gemini`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashakandula6/nlq-pipeline)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 PAN Card Tampering Detector
-> *Deep Learning Forgery Detection*
-
-CNN-based model that detects forged PAN cards, enhanced with data augmentation for production-grade accuracy.
-
-- 🖼️ Image forensics via **OpenCV** preprocessing
-- 🧬 TensorFlow CNN with augmentation tuning
-- 🌐 Deployed on **Render** with Flask backend
-- ✅ Real-world applicable document verification
-
-**Stack:** `Python` `TensorFlow` `OpenCV` `Flask`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=render&logoColor=white)](https://pan-card-tampering-detector-1.onrender.com/) [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashakandula6/pan-card-tampering-detector)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 Adobe Hackathon — Round 1A
-> *PDF & Document Intelligence*
-
-Built for the Adobe India Hackathon — intelligent PDF/document processing and information extraction pipeline.
-
-- 📑 Advanced **document understanding** at scale
-- 🧩 Structured data extraction from unstructured PDFs
-- ⚡ Optimized for speed and accuracy
-
-**Stack:** `Python` `PDF Intelligence`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashakandula6/Adobe-Hackathon-Round1A)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 More Coming Soon...
-
-> Currently working on new AI projects at BigTapp Analytics. Watch this space! 👀
-
-[![Follow](https://img.shields.io/github/followers/ashakandula6?label=Follow%20for%20updates&style=social)](https://github.com/ashakandula6)
-
-</td>
-</tr>
-</table>
+[![Repo](https://img.shields.io/badge/View%20Repo-Agentic--ATS-181717?style=flat-square&logo=github)](https://github.com/ashakandula6/Agentic-ATS)
 
 ---
 
-## 🛠️ Tech Stack
+### 🔍 PAN Card Tampering Detector
+> *Deep Learning model to detect forged PAN cards*
+
+| | |
+|---|---|
+| **What it does** | Detects document forgery using CNNs with data augmentation and fine-tuning for improved accuracy. |
+| **Stack** | `Python` `TensorFlow` `OpenCV` `Flask` |
+| **Live Demo** | [pan-card-tampering-detector-1.onrender.com](https://pan-card-tampering-detector-1.onrender.com/) |
+
+[![Repo](https://img.shields.io/badge/View%20Repo-pan--card--tampering--detector-181717?style=flat-square&logo=github)](https://github.com/ashakandula6/pan-card-tampering-detector)
+
+---
+
+### 💬 Natural Language Query Bot
+> *Query databases with plain English — no SQL needed*
+
+| | |
+|---|---|
+| **What it does** | Enables non-technical users to query PostgreSQL, MongoDB, and MariaDB using plain English. Automated schema extraction + Gemini-powered query translation. |
+| **Stack** | `LangChain` `SQLAlchemy` `PyMongo` `Streamlit` `Gemini` |
+
+[![Repo](https://img.shields.io/badge/View%20Repo-nlq--pipeline-181717?style=flat-square&logo=github)](https://github.com/ashakandula6/nlq-pipeline)
+
+---
+
+### 📚 RAG Pipeline for Document Q&A
+> *Scalable document question-answering with LLMs*
+
+| | |
+|---|---|
+| **What it does** | Retrieval-Augmented Generation pipeline for querying text, PDFs, and Word documents with semantic accuracy. Optimized chunking & prompt flows. |
+| **Stack** | `Gemini 2.0` `LangChain` `Weaviate` `Pinecone` `Langfuse` |
+
+[![Repo](https://img.shields.io/badge/View%20Repo-gemini__rag__pipeline-181717?style=flat-square&logo=github)](https://github.com/ashakandula6/gemini_rag_pipeline)
+
+---
+
+### 📄 Adobe Hackathon Round 1A
+> *PDF / Document Intelligence — Hackathon Submission*
+
+| | |
+|---|---|
+| **What it does** | Built a document intelligence solution for structured PDF understanding and content extraction as part of Adobe's hackathon. |
+| **Stack** | `Python` |
+
+[![Repo](https://img.shields.io/badge/View%20Repo-Adobe--Hackathon--Round1A-181717?style=flat-square&logo=github)](https://github.com/ashakandula6/Adobe-Hackathon-Round1A)
+
+---
+
+### 💰 PennyWise *(Coming Soon 🏗️)*
+> *Smart personal finance web app — under active development!*
+
+| | |
+|---|---|
+| **What it does** | A personal finance tracking and budgeting website to make money management simple and visual. |
+| **Status** | 🔨 Currently building — stay tuned! |
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**AI / ML / LLM**
+**AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0074F0?style=flat&logo=vector&logoColor=white)
 
-**Frameworks & Tools**
+**Web & Backend**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-6DB33F?style=flat)
 
-**Databases & Vector Stores**
+**Databases**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/-Pinecone-0074F0?style=for-the-badge&logo=vector&logoColor=white)
-![Weaviate](https://img.shields.io/badge/-Weaviate-00A591?style=for-the-badge&logo=weaviate&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Visualization**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -178,34 +152,36 @@ Built for the Adobe India Hackathon — intelligent PDF/document processing and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashakandula6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashakandula6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ashakandula6&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashakandula6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashakandula6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ashakandula6&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
+
 </div>
 
 ---
 
 ## 📜 Certifications
 
-| 🏅 Certification | 🏫 Platform |
+| Certification | Platform |
 |---|---|
 | 🧠 Generative AI with LangChain & Hugging Face | Udemy |
 | 📊 Google Data Analytics | Coursera |
 | 📈 Power BI Data Analyst | Coursera |
 | 🧪 Software Testing | NPTEL |
-| 🌱 Sri Sathya Sai Bal Vikas | 9-Year Value Education |
+| 🌱 Sri Sathya Sai Bal Vikas (9-Year Value Education) | — |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-*"Currently debugging life. AI is easier."* 🤖
+*"Currently debugging life. AI is easier."*
 
-**⭐ If you like my work, consider giving a star to my repos!**
+⭐ If you like my work, consider starring a repo!
 
 </div>
